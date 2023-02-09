@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: Acme-L3-D01
+Implementation-Version: 23.1.0
+Created-By: Maven Integration for Eclipse
+
