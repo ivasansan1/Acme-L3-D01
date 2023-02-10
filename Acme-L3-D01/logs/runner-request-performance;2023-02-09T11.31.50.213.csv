@@ -1,7 +1,0 @@
-timestamp,method,feature,time,status
-"2023-02-09 11:29:31.065","GET","/anonymous/user-account/create","469","200 OK"
-"2023-02-09 11:29:47.695","GET","/anonymous/user-account/create","20","200 OK"
-"2023-02-09 11:30:32.295","POST","/anonymous/user-account/create","432","200 OK"
-"2023-02-09 11:30:57.162","GET","/authenticated/user-account/update","27","200 OK"
-"2023-02-09 11:31:02.899","GET","/authenticated/provider/create","38","200 OK"
-"2023-02-09 11:31:18.265","GET","/authenticated/consumer/create","34","200 OK"
