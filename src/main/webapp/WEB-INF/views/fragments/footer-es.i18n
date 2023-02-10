@@ -8,7 +8,7 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-master.footer.title.about = Nosotros
+master.footer.title.about = Nosotros 
 master.footer.label.company = La empresa
 master.footer.label.license = Licencia
 master.footer.title.social = Social
